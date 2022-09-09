@@ -2,8 +2,6 @@
 
 The aim of this project is to understand the working of a system that manages the information of the students studying in schools and colleges. This information can the be name of student, roll number, library subsciptions, extra curricular activities, overall marks obtained, etc. This information can be used to track the overall performance and development of student.
 
-![image](https://user-images.githubusercontent.com/88525549/188596327-04bf1d8b-fb49-4a0b-a9d4-504d408af712.png)
-
 ![image](https://user-images.githubusercontent.com/88525549/188597871-8b821042-682f-4069-b39b-3ad6a8a1cc33.png)
 
 This also reduces the effort and time of the teachers in their assessment of a particular student. The system is designed to give an overall idea of a student and present it to the teachers and parents in an easy fashion.
